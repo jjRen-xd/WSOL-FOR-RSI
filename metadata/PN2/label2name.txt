@@ -1,0 +1,11 @@
+nursing_home 0
+closed_road 1
+crosswalk 2
+oil_well 3
+swimming_pool 4
+football_field 5
+intersection 6
+sparse_residential 7
+airplane 8
+overpass 9
+storage_tank 10

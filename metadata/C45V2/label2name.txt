@@ -1,0 +1,16 @@
+tennis_court 0
+thermal_power_station 1
+cloud 2
+island 3
+baseball_diamond 4
+stadium 5
+intersection 6
+railway_station 7
+ship 8
+roundabout 9
+sparse_residential 10
+airplane 11
+lake 12
+basketball_court 13
+overpass 14
+ground_track_field 15
